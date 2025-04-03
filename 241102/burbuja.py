@@ -9,7 +9,7 @@ import random
 import time
 
 CANTIDAD = 10
-
+# hola 
 
 def burbuja(lista):
     return lista
