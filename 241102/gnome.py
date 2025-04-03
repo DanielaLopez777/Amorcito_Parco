@@ -9,7 +9,7 @@ import random
 import time
 
 CANTIDAD = 10
-
+#amo a 
 
 def gnome(lista):
     return lista
