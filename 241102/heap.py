@@ -10,7 +10,7 @@ import time
 
 CANTIDAD = 10
 
-
+# mi amorcito mandona
 def heapsort(lista):
     return lista
 
